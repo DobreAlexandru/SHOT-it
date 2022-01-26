@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can preview a live version of this app on [Netlify](https://shotit.netlify.app/).
 
 ## Available Scripts
 
