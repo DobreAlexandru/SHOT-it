@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# SHOT-it
 
+SHOT-it is a cloud based image storage app
 You can preview a live version of this app on [Netlify](https://shotit.netlify.app/).
 
 ## Available Scripts
