@@ -18,6 +18,6 @@ The scroll animations on the home page were created using the [AOS (Animate On S
 ## Firebase
 
 To fully implement the app's functionality I've used Google's [Firebase](https://firebase.google.com/):\
--Authentication, for creating and storing users.
--Firestore, to store information about every single user, such as links to every picture they upload to the platform.
--Cloud Storage, for keeping the uploaded pictures saved on the cloud for quick access.
+-Authentication, for creating and storing users.\
+-Firestore, to store information about every single user, such as links to every picture they upload to the platform.\
+-Cloud Storage, for keeping the uploaded pictures saved on the cloud for quick access.\
